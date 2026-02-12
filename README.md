@@ -7,6 +7,8 @@ Projeto de web scraping para coletar e analisar dados do Reddit usando a API PRA
 
 Esse projeto foi realizado para a realização do artigo científico "Domestic Violence-Related Head and Neck Injuries: Social Media Web-Scraping”, que foi publicado na revista Dental Traumatology.
 
+- link: https://pubmed.ncbi.nlm.nih.gov/40799068/
+
 ## ⚠️ Aviso Legal
 
 Este projeto foi desenvolvido apenas para fins educacionais e de pesquisa. Certifique-se de:
