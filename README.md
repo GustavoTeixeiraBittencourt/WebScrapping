@@ -105,7 +105,7 @@ pip install -r requirements.txt
    jupyter notebook
    ```
 
-3. Navegue até `Scrapping.ipynb` e execute as células em ordem
+3. Navegue até `Scraping.ipynb` e execute as células em ordem
 
 ### Opção 2: Script Python
 
@@ -117,7 +117,7 @@ python src/scraper.py  # (se disponível)
 
 ```
 WebScrapping/
-├── Scrapping.ipynb        # Notebook principal de scraping
+├── Scraping.ipynb         # Notebook principal de scraping
 ├── requirements.txt       # Dependências do projeto
 ├── .env                   # Credenciais (NÃO VERSIONAR!)
 ├── .env.example           # Template de credenciais
@@ -206,7 +206,7 @@ pip install python-dotenv
 **Solução:**
 
 ```bash
-python -m ipykernel install --user --name=WebScrapping
+python -m ipykernel install --user --name=WebScraping
 ```
 
 ## 🤝 Contribuindo
@@ -247,7 +247,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 **Gustavo Teixeira Bittenourt de Oliveira**
 
 - User Agent: Gustavo
-- Projeto: Web Scrapping Reddit
+- Projeto: Web Scraping Reddit
 
 ---
 
