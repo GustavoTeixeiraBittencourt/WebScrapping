@@ -46,6 +46,7 @@ Thumbs.db
 *.xlsx
 xlsx/
 *.html
+scrapping.zip
 
 # Sensitive data
 *.env
